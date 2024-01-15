@@ -1,0 +1,6 @@
+idle- 0 - 298
+talk- 299 - 432
+grafiti- 434 - 622
+walk- 624 - 654
+take the brush- 656 - 690
+painting- 691 - 846
